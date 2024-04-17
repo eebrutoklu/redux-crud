@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "id": "128ad695-fc25-4c78-9eb0-9a763c09ae32",
+      "text": "ts learn",
+      "is_done": false,
+      "created_ad": "17.04.2024",
+      "created_at": "17.04.2024"
+    },
+    {
+      "id": "6659e41c-94a1-463f-a304-172cac9fdae7",
+      "text": "develop  js project.",
+      "is_done": false,
+      "created_ad": "17.04.2024",
+      "created_at": "17.04.2024"
+    },
+    {
+      "id": "37f7a9a2-7563-4ba6-883d-54c3e1366a53",
+      "text": "study artificial intelligence.",
+      "is_done": false,
+      "created_ad": "17.04.2024"
+    },
+    {
+      "id": "9f480ec3-40cc-464a-be17-bb5f6d7b7576",
+      "text": "learn figma and develop project",
+      "is_done": false,
+      "created_ad": "17.04.2024",
+      "created_at": "17.04.2024"
+    }
+  ]
+}
